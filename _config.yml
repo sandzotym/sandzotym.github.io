@@ -3,10 +3,6 @@ title: "ARYAHI1"
 date: 2019-02-06 hh:mm:ss -0000
 categories: CATEGORY-1 CATEGORY-2
 
-layout: page
-title: "PAGE-TITLE"
-permalink: /NewPage
-
 theme: jekyll-theme-minimal
 title: Sandy's Blog
 description: Bookmark this to keep an eye on my project updates!
